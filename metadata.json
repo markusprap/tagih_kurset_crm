@@ -1,0 +1,6 @@
+{
+  "name": "Kurset Broadcast Generator",
+  "description": "Convert Excel store data into formatted WhatsApp broadcast messages for collection reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
